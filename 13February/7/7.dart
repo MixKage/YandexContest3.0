@@ -26,9 +26,6 @@ class MyDateTime {
     if (hours > 23) {
       hours -= 24;
     }
-    if (hours == 24) {
-      hours = 0;
-    }
   }
 
   MyDateTime operator +(MyDateTime other) => _plus(other);
