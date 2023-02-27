@@ -1,3 +1,4 @@
+// https://github.com/B-O-O-P/itmo-ads-labs/blob/master/term%201/Dynamic%20programming/README.md
 import java.util.ArrayDeque;
 import java.util.Scanner;
 
