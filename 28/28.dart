@@ -1,3 +1,4 @@
+// https://site.ada.edu.az/~medv/acm/Docs%20e-olimp/Volume%2041/4021.htm
 import 'dart:io';
 
 void main() {
